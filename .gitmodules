@@ -12,7 +12,7 @@
 	url = https://github.com/webrtc-uwp/usrsctp.git
 [submodule "webrtc/xplatform/webrtc"]
 	path = webrtc/xplatform/webrtc
-	url = https://github.com/webrtc-uwp/webrtc.git
+	url = https://github.com/anderm/webrtc.git
 [submodule "webrtc/xplatform/chromium-pruned"]
 	path = webrtc/xplatform/chromium-pruned
 	url = https://github.com/webrtc-uwp/chromium-pruned.git
@@ -66,7 +66,7 @@ url=https://github.com/webrtc-uwp/googlemock.git
 	url = https://github.com/webrtc-uwp/ChatterBox.git
 [submodule "webrtc/windows"]
 	path = webrtc/windows
-	url = https://github.com/webrtc-uwp/webrtc-windows.git
+	url = https://github.com/anderm/webrtc-windows.git
 [submodule "common/windows/samples/AppRTC"]
 	path = common/windows/samples/AppRTC
 	url = https://github.com/webrtc-uwp/AppRTC.git
